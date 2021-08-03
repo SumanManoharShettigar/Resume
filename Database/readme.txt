@@ -1,0 +1,1 @@
+Import this SQL file in your database management server.
